@@ -9,3 +9,21 @@ Speed of light = 3F890000
 
 00020000 10522D28
 XXXXXXXX 00000000
+
+
+Here is an alternative to speedhack.
+To activate the speedhack, simply press the left Joystick.
+To disable the speedhack, simply press the right Joystick.
+
+09020000 1F604EA0
+00020000 00000000
+00020000 10522D28
+3F800000 00000000
+D0000000 DEADCAFE
+09020000 1F604EA0
+00040000 00000000
+00020000 10522D28
+3F810000 00000000
+D0000000 DEADCAFE
+
+Created by V-Coding.
