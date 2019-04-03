@@ -1,0 +1,8 @@
+Replaces XXXXXXXX with the desired value.
+
+Normal = 3F800000
+SpeedHack = 3F810000
+Speed of light = 3F890000
+
+00020000 10522D28
+XXXXXXXX 00000000
