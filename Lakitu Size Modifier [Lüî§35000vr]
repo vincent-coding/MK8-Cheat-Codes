@@ -1,6 +1,7 @@
 Replace X's with desired value.
 00000000 = Invisible
 3DC00000 = Small
+3F800000 = Normal
 40000000 = Big
 41000000 = Extra Big
 
