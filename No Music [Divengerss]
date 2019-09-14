@@ -1,2 +1,8 @@
+Replace XXXXXXXX with the desired value
+3F800000 -> Music On
+3FE00000 -> Music Off
+
+
+
 00020000 105F6AE4
-3FE00000 00000000
+XXXXXXXX 00000000
