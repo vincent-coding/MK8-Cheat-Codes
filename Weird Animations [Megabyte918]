@@ -1,4 +1,10 @@
-Increases Animation Speed by x32. Results in some funny looking stuff
+Replaces XXXXXXXX with the desired value
+3F800000 -> Normal Animations
+41000000 -> 8x Animations
+42000000 -> 32x Animations
+43000000 -> 128x Animations
+44000000 -> 512x Animations
+45000000 -> 2048x Animations
 
 00020000 105F3310
-42000000 00000000
+XXXXXXXX 00000000
