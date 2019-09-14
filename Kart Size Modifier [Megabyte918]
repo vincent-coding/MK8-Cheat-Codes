@@ -5,6 +5,8 @@ Replace X's with your desired value.
 3F800000 = Normal Size Kart
 40000000 = Double Size Kart
 41000000 = 8x Size Kart
+42000000 = 32x Size Kart
+43000000 = 128x Size Kart
 
 00020000 105232D0
 XXXXXXXX 00000000
